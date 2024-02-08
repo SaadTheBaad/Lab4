@@ -8,6 +8,6 @@
 |Saad Sheikh|
 ## Screenshots
 ### Exercise B
-![ExerciseB final output] (URL to Image)
-###Exercise C
-![Exercise C final output] (URL to image)
+! [Exercise B final output](./ExerciseB.gif)
+### Exercise C
+! [Exercise C final output](./ExerciseC.gif)
